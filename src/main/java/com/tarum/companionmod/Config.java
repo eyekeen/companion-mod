@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.tarum.companionmod;
 
 import java.util.List;
 import java.util.Set;
