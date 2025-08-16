@@ -1,7 +1,6 @@
 {
-  "itemGroup.companionmod": "Example Mod Tab",
-  "block.companionmod.example_block": "Example Block",
-  "item.companionmod.example_item": "Example Item",
+  "item.companionmod.bismuth": "Bismuth",
+  "item.companionmod.raw_bismuth": "Raw Bismuth",
 
   "companionmod.configuration.title": "Example Mod Configs",
   "companionmod.configuration.section.companionmod.common.toml": "Example Mod Configs",
